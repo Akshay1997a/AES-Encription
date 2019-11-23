@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AESFileEncryption",
+            "request": "launch",
+            "mainClass": "AESFileEncryption",
+            "projectName": "Java Programs_1c57c8d4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Decryption",
+            "request": "launch",
+            "mainClass": "Decryption",
+            "projectName": "Java Programs_1c57c8d4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Encryption",
+            "request": "launch",
+            "mainClass": "Encryption",
+            "projectName": "Java Programs_1c57c8d4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Java Programs_1c57c8d4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Encrypted",
+            "request": "launch",
+            "mainClass": "Encrypted",
+            "projectName": "Java Programs_1c57c8d4"
+        }
+    ]
+}
